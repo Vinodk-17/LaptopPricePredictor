@@ -8,6 +8,7 @@ pipe = pickle.load(open('pipe.pkl','rb'))
 df = pickle.load(open('df.pkl','rb'))
 
 st.title("Laptop Price Predictor")
+st.subheader("ML Capstone Project")
 
 # brand
 company = st.selectbox('Brand',df['Company'].unique())
