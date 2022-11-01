@@ -1,4 +1,7 @@
 streamlit
 sklearn
 xgboost
+maths
+numpy
+pickle
 
