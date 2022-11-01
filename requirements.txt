@@ -9,13 +9,8 @@ numpy
 sklearn
 
 seaborn
-ColumnTransformer
-Pipeline
+
 OneHotEncoder
 
-Ridge
-Lasso
-XGBRegressor
-SVR
-RandomForestRegressor
+
 
