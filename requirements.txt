@@ -10,7 +10,7 @@ sklearn
 
 seaborn
 
-OneHotEncoder
+
 
 
 
